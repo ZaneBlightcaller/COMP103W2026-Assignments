@@ -29,7 +29,7 @@
                 // In this Code it validates if its 6:00am or later in the week from monday to friday.
                 if (hour != 6 || hour > 6)
                     Console.WriteLine($"It is {day} {hour} its time to wake up and get ready for the work day");
-                if (hour >= 6)
+                if (hour <= 6)
                     Console.WriteLine($"It is {day} {hour} its not time to get up yet");   
                 else
                     Console.WriteLine($"It is {day} {hour} It's not time to get up, go back to sleep");
@@ -40,7 +40,7 @@
                 //This Code here validates if its 9:00am or later in the week from monday to friday.
                 if (hour != 9 || hour > 9)
                     Console.WriteLine($"It is {day} {hour} it is the weekend and it is time to wake up and enjoy the day");
-                if (hour >= 9)
+                if (hour <= 9)
                     Console.WriteLine($"It is {day} {hour} its not time to get up yet");
                 else
                     Console.WriteLine($"It is {day} {hour} It's not time to get up go back to sleep");
