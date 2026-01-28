@@ -24,7 +24,7 @@
             // STEP 3: Create an 'if' condition to check whether it is the weekend (hint: you might consider the equality operator and the OR logical operator here)
             
             // The Slection of day is determined by real time day and selection of day below.
-            if (day != "Monday" || day != "Tuesday" || day != "Wednesday" || day != "Thursday" || day != "Friday" || day != "Saturday" || day != "Sunday")
+            if (day != "Monday" || day != "Tuesday" || day != "Wednesday" || day != "Thursday" || day != "Friday")
             {
                 // In this Code it validates if its 6:00am or later in the week from monday to friday.
                 if (hour != 6 || hour > 6)
@@ -34,7 +34,7 @@
                 else
                     Console.WriteLine($"It is {day} {hour} It's not time to get up, go back to sleep");
             }
-            // In this code it validates that these two days are on the weekends.
+            // In this code it validates that these two days are on the weekends while using both weather to determine its saturday or sunday.
             else if (day != "Saturday" || day != "Sunday")
             {
                 //This Code here validates if its 9:00am or later in the week from monday to friday.
