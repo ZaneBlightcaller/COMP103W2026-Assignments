@@ -25,7 +25,7 @@
 
             if (HardWoodChoice == "M")
             {
-
+                cost= 8.95f;
                 Console.WriteLine("You have selected Maple Hardwood. The price is $8.95 per square foot.");
             }
             else if (HardWoodChoice == "P")
