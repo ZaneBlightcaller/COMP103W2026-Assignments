@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zacha\\source\\repos\\ZaneBlightcaller\\COMP103W2026-Assignments\\Lab 4\\Lab 4.csproj": {}
+    "C:\\Users\\zacha\\source\\repos\\ZaneBlightcaller\\COMP103W2026-Assignments\\Lab 5\\Lab 5\\Lab 5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zacha\\source\\repos\\ZaneBlightcaller\\COMP103W2026-Assignments\\Lab 4\\Lab 4.csproj": {
+    "C:\\Users\\zacha\\source\\repos\\ZaneBlightcaller\\COMP103W2026-Assignments\\Lab 5\\Lab 5\\Lab 5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zacha\\source\\repos\\ZaneBlightcaller\\COMP103W2026-Assignments\\Lab 4\\Lab 4.csproj",
-        "projectName": "Lab 4",
-        "projectPath": "C:\\Users\\zacha\\source\\repos\\ZaneBlightcaller\\COMP103W2026-Assignments\\Lab 4\\Lab 4.csproj",
+        "projectUniqueName": "C:\\Users\\zacha\\source\\repos\\ZaneBlightcaller\\COMP103W2026-Assignments\\Lab 5\\Lab 5\\Lab 5.csproj",
+        "projectName": "Lab 5",
+        "projectPath": "C:\\Users\\zacha\\source\\repos\\ZaneBlightcaller\\COMP103W2026-Assignments\\Lab 5\\Lab 5\\Lab 5.csproj",
         "packagesPath": "C:\\Users\\zacha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zacha\\source\\repos\\ZaneBlightcaller\\COMP103W2026-Assignments\\Lab 4\\obj\\",
+        "outputPath": "C:\\Users\\zacha\\source\\repos\\ZaneBlightcaller\\COMP103W2026-Assignments\\Lab 5\\Lab 5\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
